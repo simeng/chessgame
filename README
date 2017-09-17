@@ -1,0 +1,14 @@
+An old chess game made in java for a school project
+
+# Compile
+  ./compile.sh
+
+# Start
+  ./start_server.sh (binds to localhost)
+  ./start_client.sh (as many times as you wish)
+
+# Starting a game
+
+After adding players just press start to start the clock and the game.
+If you are missing one or two players an AI will be added for each missing
+player.

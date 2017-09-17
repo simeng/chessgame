@@ -135,7 +135,7 @@ class GuiMenu extends JMenuBar implements Serializable {
 			if(e.getSource() == newBoard)
 			{
 				try {
-					new Client();
+					new Client(null);
 				} catch(Exception re) { }
 			}
 			gui.updateSettings();
