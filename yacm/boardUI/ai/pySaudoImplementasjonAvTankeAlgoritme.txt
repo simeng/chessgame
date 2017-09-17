@@ -1,0 +1,46 @@
+# dybden som aien skal sjekke trekk
+global depth = 2
+
+
+moves = getPossibleStartMoves()
+
+for move in list_of_possible_startmoves:
+	movescore = calculateMoveScore(move)
+	
+	if (movescore > bestmovescore):
+		bestmovescore = movescore;
+		bestmove = move;
+	
+
+# det rekursive kallet for å regne ut summene
+def calculateMoveScore(move):
+
+	# Dersom vi ikke har gått for dypt ned i tenketreet
+	if (depth-- > 0)
+		# for hvert lovlig trekk under dette trekket
+		for currentMove in move.getPossibleMoves():
+			# legg til totalen med neste rekursive trekk
+			if (move.getPlayer == myself):
+				totalt = total + calculateMoveScore(currentMove)
+			else
+				totalt = total - calculateMoveScore(currentMove)
+			
+	# returner totalen til kalleren over (som tilslutt blir hovedkalleren 
+	  etter alle rekursive kallene har returnert sin total)
+
+    return totalt
+
+
+
+# Tegning er fint for å holde oversikten.
+
+                                   list_of_possible_startmoves
+                         ___________/      |      |
+                       move               move  move
+               ________/ \_____            /\    /\
+        coutermove           countermove
+   ______/ |    \______
+ move     move        move
+                      /  \__
+             countermove   countermove
+

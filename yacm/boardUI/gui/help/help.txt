@@ -1,0 +1,87 @@
+En kort innføring i sjakk:£
+Kverk motstanderens konge!
+
+Dirtywork krever noen underståtter, og du har
+følgende til disposisjon:
+- 8 bønder
+- 2 tårn
+- 2 knekter
+- 2 løpere
+- 1 dronning
+- 1 konge
+- 50 megatonn nuke
+
+ehm... stryk siste.
+
+Alle dine underståtter er noen trassige pøbler som
+kun vil flytte på sin egen måte:
+
+- Bonden kan flytte slik:
+<yacm/boardUI/gui/help/pawnmove.jpg>
+
+- Tårnet kan flytte slik:
+<yacm/boardUI/gui/help/rookmove.jpg>
+
+- Knekten kan flytte slik:
+<yacm/boardUI/gui/help/knightmove.jpg>
+
+- Løperen kan flytte slik:
+<yacm/boardUI/gui/help/bishopmove.jpg>
+
+- Dronningen kan flytte slik:
+<yacm/boardUI/gui/help/queenmove.jpg>
+
+- Kongen kan flytte slik:
+<yacm/boardUI/gui/help/kingmove.jpg>
+
+
+Spesielle trekk:£
+- enpassant$
+    Hvis en bonde står ved siden av en fiendtlig
+    bonde, så kan den hoppe på skrått bak
+    motstanderen og slå ut den bonden som står
+    bak.
+<yacm/boardUI/gui/help/epawnmove.jpg>
+	
+- lang og kort rokade$
+    Kongen kan slå en lang rokade med tårnet. Dog,
+    dette varierer litt med hvilken farge man spiller
+    og hvilket tårn man velger. Men det ser ut som
+    følger:
+<yacm/boardUI/gui/help/castlingk.jpg>
+<yacm/boardUI/gui/help/castlingq.jpg>
+
+Sjakk:£
+Sett motstanderens konge i sjakk ved å posisjonere
+brikkene din slik at de kan flytte til kongens
+rute. Motspilleren må nå flytte slik at han bryter
+din sjakk. Enten ved å flytte kongen, knerte din
+brikke eller ved å la en av sine brikke blokkere
+din innfallsvinkel.
+
+Patt:£
+Når en spiller ikke har noen lovlige trekk han kan
+ta, så ender partiet i Patt. Slikt oppstår ofte
+når man ikke kan ta et trekk uten å sette seg selv
+i sjakk.
+
+Remi:£
+Når ingen av spillerne har mulighet for å sette
+motstanderens konge i sjakk, så ender partiet i
+Remi. Partiet sies å være uavgjort. Remi kan også
+oppstå hvis en av følgende superspesielle regler
+oppstår:
+- Tretrekksregelen$
+    Hvis brettet har identisk status som tre ganger
+    tidligere. Dette skjer ekstremt sjeldent.
+- Femtitrekksregelen$
+    Hvis en spiller ikke har tatt en fiendlig
+    brikke eller flyttet en bonde i løpet av de
+    siste femti trekkene, så avsluttes partiet.
+
+Det er grovt trekkene i sjakk. For mer grundig
+gjennomgang, pek din vevleser til:
+
+http://www.sjakk.no/NSF/REGLER/FIDEREGL.HTM§
+
+Game on! GL HF
