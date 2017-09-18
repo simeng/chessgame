@@ -1,31 +1,31 @@
-En kort innføring i sjakk:£
+En kort innfÃ¸ring i sjakk:Â£
 Kverk motstanderens konge!
 
-Dirtywork krever noen underståtter, og du har
-følgende til disposisjon:
-- 8 bønder
-- 2 tårn
+Dirtywork krever noen understÃ¥tter, og du har
+fÃ¸lgende til disposisjon:
+- 8 bÃ¸nder
+- 2 tÃ¥rn
 - 2 knekter
-- 2 løpere
+- 2 lÃ¸pere
 - 1 dronning
 - 1 konge
 - 50 megatonn nuke
 
 ehm... stryk siste.
 
-Alle dine underståtter er noen trassige pøbler som
-kun vil flytte på sin egen måte:
+Alle dine understÃ¥tter er noen trassige pÃ¸bler som
+kun vil flytte pÃ¥ sin egen mÃ¥te:
 
 - Bonden kan flytte slik:
 <yacm/boardUI/gui/help/pawnmove.jpg>
 
-- Tårnet kan flytte slik:
+- TÃ¥rnet kan flytte slik:
 <yacm/boardUI/gui/help/rookmove.jpg>
 
 - Knekten kan flytte slik:
 <yacm/boardUI/gui/help/knightmove.jpg>
 
-- Løperen kan flytte slik:
+- LÃ¸peren kan flytte slik:
 <yacm/boardUI/gui/help/bishopmove.jpg>
 
 - Dronningen kan flytte slik:
@@ -35,53 +35,53 @@ kun vil flytte på sin egen måte:
 <yacm/boardUI/gui/help/kingmove.jpg>
 
 
-Spesielle trekk:£
+Spesielle trekk:Â£
 - enpassant$
-    Hvis en bonde står ved siden av en fiendtlig
-    bonde, så kan den hoppe på skrått bak
-    motstanderen og slå ut den bonden som står
+    Hvis en bonde stÃ¥r ved siden av en fiendtlig
+    bonde, sÃ¥ kan den hoppe pÃ¥ skrÃ¥tt bak
+    motstanderen og slÃ¥ ut den bonden som stÃ¥r
     bak.
 <yacm/boardUI/gui/help/epawnmove.jpg>
 	
 - lang og kort rokade$
-    Kongen kan slå en lang rokade med tårnet. Dog,
+    Kongen kan slÃ¥ en lang rokade med tÃ¥rnet. Dog,
     dette varierer litt med hvilken farge man spiller
-    og hvilket tårn man velger. Men det ser ut som
-    følger:
+    og hvilket tÃ¥rn man velger. Men det ser ut som
+    fÃ¸lger:
 <yacm/boardUI/gui/help/castlingk.jpg>
 <yacm/boardUI/gui/help/castlingq.jpg>
 
-Sjakk:£
-Sett motstanderens konge i sjakk ved å posisjonere
+Sjakk:Â£
+Sett motstanderens konge i sjakk ved Ã¥ posisjonere
 brikkene din slik at de kan flytte til kongens
-rute. Motspilleren må nå flytte slik at han bryter
-din sjakk. Enten ved å flytte kongen, knerte din
-brikke eller ved å la en av sine brikke blokkere
+rute. Motspilleren mÃ¥ nÃ¥ flytte slik at han bryter
+din sjakk. Enten ved Ã¥ flytte kongen, knerte din
+brikke eller ved Ã¥ la en av sine brikke blokkere
 din innfallsvinkel.
 
-Patt:£
-Når en spiller ikke har noen lovlige trekk han kan
-ta, så ender partiet i Patt. Slikt oppstår ofte
-når man ikke kan ta et trekk uten å sette seg selv
+Patt:Â£
+NÃ¥r en spiller ikke har noen lovlige trekk han kan
+ta, sÃ¥ ender partiet i Patt. Slikt oppstÃ¥r ofte
+nÃ¥r man ikke kan ta et trekk uten Ã¥ sette seg selv
 i sjakk.
 
-Remi:£
-Når ingen av spillerne har mulighet for å sette
-motstanderens konge i sjakk, så ender partiet i
-Remi. Partiet sies å være uavgjort. Remi kan også
-oppstå hvis en av følgende superspesielle regler
-oppstår:
+Remi:Â£
+NÃ¥r ingen av spillerne har mulighet for Ã¥ sette
+motstanderens konge i sjakk, sÃ¥ ender partiet i
+Remi. Partiet sies Ã¥ vÃ¦re uavgjort. Remi kan ogsÃ¥
+oppstÃ¥ hvis en av fÃ¸lgende superspesielle regler
+oppstÃ¥r:
 - Tretrekksregelen$
     Hvis brettet har identisk status som tre ganger
     tidligere. Dette skjer ekstremt sjeldent.
 - Femtitrekksregelen$
     Hvis en spiller ikke har tatt en fiendlig
-    brikke eller flyttet en bonde i løpet av de
-    siste femti trekkene, så avsluttes partiet.
+    brikke eller flyttet en bonde i lÃ¸pet av de
+    siste femti trekkene, sÃ¥ avsluttes partiet.
 
 Det er grovt trekkene i sjakk. For mer grundig
 gjennomgang, pek din vevleser til:
 
-http://www.sjakk.no/NSF/REGLER/FIDEREGL.HTM§
+http://www.sjakk.no/NSF/REGLER/FIDEREGL.HTMÂ§
 
 Game on! GL HF
